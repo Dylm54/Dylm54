@@ -37,5 +37,6 @@ and presents severity categories based on the Hayashi Criteria.
 
 **Stack:** React · JavaScript · Python · FastAPI · YOLOv11
 
+[Live demo](https://acnescanai.vercel.app) ·
 [Frontend](https://github.com/Dylm54/TA_Frontend) ·
 [Backend](https://github.com/Dylm54/TA_Backend)
